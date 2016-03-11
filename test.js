@@ -22,5 +22,4 @@ describe( 'Weather Analyzer Test', function() {
     ] )
     expect( result ).to.be.false
   } )
-
 } )

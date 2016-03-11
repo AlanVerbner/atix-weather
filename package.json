@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha test.js",
-    "start" : "node index.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -22,6 +22,8 @@
     "mocha": "^2.4.5"
   },
   "dependencies": {
-    "restify": "^4.0.4"
+    "regression": "^1.2.1",
+    "restify": "^4.0.4",
+    "superagent": "^1.8.0"
   }
 }
